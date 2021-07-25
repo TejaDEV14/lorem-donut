@@ -5,3 +5,5 @@ Adding collaborator and contributor
 Adding squash changes part 1
 
 Adding squash changes part 2
+
+Adding squash changes part 3
