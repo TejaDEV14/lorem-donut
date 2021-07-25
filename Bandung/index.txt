@@ -3,3 +3,5 @@ Hello Bandung city the one of beautifull city in java
 Adding collaborator and contributor
 
 Adding squash changes part 1
+
+Adding squash changes part 2
